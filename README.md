@@ -1,4 +1,4 @@
 FishingFix
 ==========
 
-Fish Fix test Plugin
+A Bukkit Plugin to test the PR for PlayerFishEvent
